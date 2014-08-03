@@ -1,0 +1,5 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\Encode_DecodeAlgoritms\Encode_DecodeAlgoritms\obj\Debug\Encode_DecodeAlgoritms.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\Encode_DecodeAlgoritms\Encode_DecodeAlgoritms\bin\Debug\Encode_DecodeAlgoritms.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\Encode_DecodeAlgoritms\Encode_DecodeAlgoritms\bin\Debug\Encode_DecodeAlgoritms.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\Encode_DecodeAlgoritms\Encode_DecodeAlgoritms\obj\Debug\Encode_DecodeAlgoritms.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\Encode_DecodeAlgoritms\Encode_DecodeAlgoritms\obj\Debug\Encode_DecodeAlgoritms.pdb

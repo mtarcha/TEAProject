@@ -1,0 +1,7 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\bin\Debug\Encode_DecodeAlgoritms.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\bin\Debug\Encode_DecodeAlgoritms.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.pdb

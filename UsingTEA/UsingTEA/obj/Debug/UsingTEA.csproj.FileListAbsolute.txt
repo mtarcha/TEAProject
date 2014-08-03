@@ -1,0 +1,11 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\bin\Debug\UsingTEA.exe.config
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\bin\Debug\UsingTEA.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\bin\Debug\UsingTEA.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\obj\Debug\UsingTEA.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\obj\Debug\UsingTEA.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\obj\Debug\UsingTEA.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\bin\Debug\Encode_DecodeAlgoritms.dll
+c:\users\myrosya\documents\visual studio 2012\Projects\UsingTEA\UsingTEA\bin\Debug\Encode_DecodeAlgoritms.pdb
+C:\Users\myrosya\Desktop\UsingTEA\UsingTEA\bin\Debug\UsingTEA.exe.config
+C:\Users\myrosya\Desktop\UsingTEA\UsingTEA\obj\Debug\UsingTEA.exe
+C:\Users\myrosya\Desktop\UsingTEA\UsingTEA\obj\Debug\UsingTEA.pdb
